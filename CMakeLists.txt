@@ -79,6 +79,7 @@ set(EXAMPLES
   indexedcube
   indirectmaterial
   instancedattribs
+  instancedbaseinstance
   julia
   ktxview
   linesmooth
